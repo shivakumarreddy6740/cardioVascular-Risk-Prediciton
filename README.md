@@ -27,7 +27,15 @@ We use **machine learning classification algorithms** to analyze patient data, f
 3. **Data Cleaning** — Removing outliers and handling null values.  
 4. **Feature Transformation** — Scaling and encoding data for ML models.  
 5. **Handling Imbalanced Data** — Using **SMOTE** to balance classes.  
-6. **Model Building** — Training 8 classification models.  
+6. **Model Building** — Training multiple classification models.  
+
+   **Models and Accuracy Achieved:**
+   - Logistic Regression — **85.49%**
+   - K-Nearest Neighbors (KNN) — **82.59%**
+   - Support Vector Machine (SVM) — **84.47%**
+   - Decision Tree Classifier — **76.28%**
+   - Random Forest Classifier — **83.79%**
+
 7. **Model Evaluation** — Comparing metrics (Recall, F1-score, Accuracy).  
 8. **Hyperparameter Tuning** — Optimizing best model performance.  
 
